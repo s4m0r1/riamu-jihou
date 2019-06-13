@@ -106,3 +106,6 @@ venv.bak/
 bin/
 include/
 lib/
+
+# self
+pip-selfcheck.json
